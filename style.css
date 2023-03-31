@@ -1,0 +1,79 @@
+body{
+    background: hsl(217, 54%, 11%);
+    height: 100vh;
+    margin-top: 40px;
+    
+}
+
+.bigbox{
+    background: hsl(216, 50%, 16%);
+    
+    width: 320px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    
+    
+    
+    
+}
+
+#pic1{
+    width: 250px;
+    border-radius: 10px;
+    
+}
+.sbox{
+    
+    width: 250px;
+    height: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.lbox{
+    
+    width: 260px;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color: hsl(215, 51%, 70%);
+
+}
+
+#avat{
+    margin-top: 10px;
+
+    width: 30px;
+    
+}
+
+#clock{
+    margin-left: 70px;
+}
+
+.para{
+    font-size: 17px;
+}
+
+
+h3{
+    color: hsl(0, 0%, 100%);
+}
+
+.para{
+    color:hsl(178, 100%, 50%) ;
+}
+
+.cl{
+    color:hsl(215, 51%, 70%);
+}
+
+.hl{
+    color: brown;
+}
+    
